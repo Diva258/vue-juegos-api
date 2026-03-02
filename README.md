@@ -37,7 +37,7 @@ https://www.cheapshark.com/api/1.0/deals?storeID=1&pageSize=30
 
 Aplicación desplegada en Vercel:
 
-[PEGA AQUÍ TU LINK DE VERCEL]
+(https://vue-juegos-api.vercel.app/)
 
 ## ▶️ Ejecución local
 
